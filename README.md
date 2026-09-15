@@ -1,4 +1,8 @@
-#novo projeto git
+#Novo projeto git
+
 ##criando um repositorio
-exemplo de repositorio git para desenvolvimento web
+
+###exemplo de repositorio git para desenvolvimento web
+
+
 
